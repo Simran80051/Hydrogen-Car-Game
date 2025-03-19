@@ -49,15 +49,27 @@ Reach a score of **5000** by collecting hydrogen fuel cells, building infrastruc
 
 - **Level 1: Standard Road (Easy)**
   - Wide lanes, fewer obstacles, slower vehicle speeds.
-  
+    <div style="text-align: left;">
+  <img src="https://github.com/user-attachments/assets/73132088-213e-48c0-b173-9b1b9b24b04c" alt="Description" width="200" height="auto" />
+</div>
+                           
 - **Level 2: Calgary Streets (Medium)**
   - Narrower lanes with moderate vehicle speeds and a higher frequency of obstacles.
+    <div style="text-align: left;">
+  <img src="https://github.com/user-attachments/assets/e9edcf53-f515-4a48-97c0-eaafafcb44e9" alt="Description" width="200" height="auto" />
+</div>
   
 - **Level 3: Vancouver Single Lane (Hard)**
   - A single-lane highway with high-speed vehicles and more obstacles.
-  
+    <div style="text-align: left;">
+  <img src="https://github.com/user-attachments/assets/2403fe7c-b2ab-4cb1-a079-0a048f17888a" alt="Description" width="200" height="auto" />
+</div>
+
 - **Level 4: Toronto Freeway (Extreme)**
   - Multiple lanes with maximum vehicle speeds, requiring fast reflexes to avoid collisions.
+    <div style="text-align: left;">
+  <img src="https://github.com/user-attachments/assets/6afe7555-d141-46d0-94a5-800a63095482" alt="Description" width="200" height="auto" />
+</div>
 
 ## 6. Controls
 
