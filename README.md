@@ -78,6 +78,5 @@ Hydro Havoc has the potential to be expanded in several ways, including:
 - New obstacles, power-ups, and challenges.
 - More educational content focused on hydrogen infrastructure and sustainability.
 
----
-
+--
 This game is intended to be a marketing tool to educate players about the importance of building hydrogen infrastructure and how it will contribute to a sustainable future for transportation in Western Canada. It’s designed to be beginner-friendly, with simple controls, short gameplay, and a fun way to visualize the future of hydrogen-powered vehicles.
